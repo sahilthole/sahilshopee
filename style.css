@@ -1,0 +1,63 @@
+.navbar-nav{
+	margin: auto;
+
+}
+.navbar-brand{
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 24px;
+}
+.nav-link{
+	margin-right: 12px;
+
+}
+
+.head{
+	margin-top: 30px;
+	margin-bottom: 25px;
+
+}
+.carousel{
+	margin:auto;
+}
+.carousel-item img{
+	height: 400px;
+	
+}
+
+.heading{
+	margin-top: 40px;
+	margin-bottom: 25px;
+}
+.card-deck{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	width: 100%;
+	box-shadow: 0px 9px 20px 0px;
+
+
+	
+	
+}
+.card{
+	height: 16rem;
+	border: 1px solid black;
+
+
+
+	
+}
+.card img{
+	height: 11rem;
+
+}
+.footer{
+	background-color: whitesmoke;
+	text-align: center;
+	margin:auto;
+	margin-top: 2rem;
+
+}
+.para{
+	padding-top: 2rem;
+
+}
